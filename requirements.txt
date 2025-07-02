@@ -1,0 +1,9 @@
+pandas  #CSV Dateien in DataFrames wandeln zur besseren Handhabung
+numpy   #Arrays in Vektoren
+sentence-transformers   #der semantische Kodierer selbst(input zu Vektoren)
+scikit-learn    #maschinelles Lernen(berechnet Ähnlichkeiten zwischen Embeddings)
+streamlit   #für die GUI ganz am Ende (Chatoberfläche)
+matplotlib  #Embeddings einfacher visualisieren (wird momentan nicht gebraucht eigentlich)
+requests    #HTTP requests automatisieren um Daten aus der Webseite direkt zu beziehen
+beautifulsoup4  #Web-Scraper
+tqdm    #Fortschrittsbalken im Terminal bei allmöglichen langen Prozessen
